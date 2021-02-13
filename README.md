@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**mohamedookiyo/mohamedookiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+My name is Mohamed Ibrahiim also known as Mohamed Ookiyo. I'm a Software Developer,<br>junior Machine Learning and Cyber Security Engineer based in Uppsala, Sweden.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ⚒️ Some of my favorite dev tools are:
+
+---
+
+- [ [VSCode](https://code.visualstudio.com/), [React](https://reactjs.org/), [Express](https://expressjs.com/) ]
+- [ [Jupyter](https://jupyter.org/), [Anaconda](https://www.anaconda.com/), [Scikit-learn](https://scikit-learn.org/) ]
+- [ [GitHub](https://github.com/), [GCP](https://cloud.google.com/), [Postman](https://www.postman.com/), [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) ]
+
+#### 😊 My hobbies are:
+
+---
+
+- 🖥️ Coding
+- ⚽ Football
+- 🎮 Playing video games
